@@ -1,5 +1,3 @@
-# mapnerds
-Unite!
+# Map Nerds Unite!
 
-Aircraft:
-[ADS-B](https://globe.adsbexchange.com/)
+index.md is a small curated list of cool online maps we've found over the years. 

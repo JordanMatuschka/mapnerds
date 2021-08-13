@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>{{ title }}</title>
+	<link rel="stylesheet" href="{{& stylesheet }}" />
+</head>
+<body>
+{{& header }}
+{{& body }}
+{{# footer }}
+<div class="foot">
+{{& footer }}
+</div>
+{{/ footer }}
+</body>
+</html>

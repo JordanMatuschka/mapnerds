@@ -10,7 +10,17 @@ Water: [National Water Dashboard](https://dashboard.waterdata.usgs.gov/app/nwd/?
 
 Air: [Airnow Fire and Smoke Map](https://fire.airnow.gov/)
 
-Satelite: [GOES, Himawari, Meteosat, JPSS](https://rammb-slider.cira.colostate.edu/)
-Satelite: [GOES-East Images](https://www.star.nesdis.noaa.gov/GOES/conus.php?sat=G16)
+Satelite: 
+  - [GOES, Himawari, Meteosat, JPSS](https://rammb-slider.cira.colostate.edu/)
+  - [GOES-East Images](https://www.star.nesdis.noaa.gov/GOES/conus.php?sat=G16)
 
 Weather Models: [GFS](https://www.pivotalweather.com/model.php)
+
+Weather Radar: [DuPage SatRad](https://weather.cod.edu/satrad/nexrad/)
+
+Lighting: [OpenLighting Map](https://www.lightningmaps.org/)
+
+### Geologic
+Topographic:
+  - [USGS ProductFinder](https://store.usgs.gov/map-locator)
+  - [OpenTopo Map](https://opentopomap.org/)

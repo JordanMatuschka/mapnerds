@@ -14,13 +14,20 @@ Satelite:
   - [GOES, Himawari, Meteosat, JPSS](https://rammb-slider.cira.colostate.edu/)
   - [GOES-East Images](https://www.star.nesdis.noaa.gov/GOES/conus.php?sat=G16)
 
-Weather Models: [GFS](https://www.pivotalweather.com/model.php)
+Weather Models: 
+  - [GFS](https://www.pivotalweather.com/model.php)
+  - [ECMWF](https://www.weathernerds.org/models/ecmwf.html)
 
-Weather Radar: [DuPage SatRad](https://weather.cod.edu/satrad/nexrad/)
+Weather Radar: 
+  - [DuPage SatRad - Chicago](https://weather.cod.edu/satrad/nexrad/)
+  - [DuPage SatRad - Louisville](https://weather.cod.edu/satrad/nexrad/index.php?parms=LVX-N0Q-0-24-100-usa-rad)
 
-Lighting: [OpenLighting Map](https://www.lightningmaps.org/)
+Lightning: [OpenLighting Map](https://www.lightningmaps.org/)
 
 ### Geologic
 Topographic:
   - [USGS ProductFinder](https://store.usgs.gov/map-locator)
   - [OpenTopo Map](https://opentopomap.org/)
+
+Seismic Activity:
+  - [IRIS Seismic Monitor](http://ds.iris.edu/seismon/index.phtml)

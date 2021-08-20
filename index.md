@@ -21,6 +21,7 @@ Weather Models:
 Weather Radar: 
   - [DuPage SatRad - Chicago](https://weather.cod.edu/satrad/nexrad/)
   - [DuPage SatRad - Louisville](https://weather.cod.edu/satrad/nexrad/index.php?parms=LVX-N0Q-0-24-100-usa-rad)
+  - [World Radar](https://www.ventusky.com/?p=36.9;-92.3;3&l=radar)
 
 Lightning: [OpenLighting Map](https://www.lightningmaps.org/)
 
@@ -31,3 +32,11 @@ Topographic:
 
 Seismic Activity:
   - [IRIS Seismic Monitor](http://ds.iris.edu/seismon/index.phtml)
+
+### Geographic
+  - [Cartographic Maps of the Past](https://www.oldmapsonline.org/)
+
+### Astronomical and Astrophysical
+  - [ISS](https://www.astroviewer.net/iss/en/)
+  - [SOHO Sunspots](https://sohowww.nascom.nasa.gov/sunspots/)
+  - [Live SKy View](https://heavens-above.com/skyview/?lat=38.2037&lng=-85.6714&cul=en#/livesky)

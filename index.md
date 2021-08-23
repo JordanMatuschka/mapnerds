@@ -25,6 +25,9 @@ Weather Radar:
 
 Lightning: [OpenLighting Map](https://www.lightningmaps.org/)
 
+### Infrastructure
+Power Outages: [PowerOutage.us](https://poweroutage.us)
+
 ### Geologic
 Topographic:
   - [USGS ProductFinder](https://store.usgs.gov/map-locator)

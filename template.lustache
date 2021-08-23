@@ -5,6 +5,7 @@
 	<link rel="stylesheet" href="{{& stylesheet }}" />
 </head>
 <body>
+<div class="backgrounder"></div>
 {{& header }}
 {{& body }}
 {{# footer }}

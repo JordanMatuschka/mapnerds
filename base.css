@@ -1,0 +1,27 @@
+html {
+  background: #e6f2ff;
+  font-family:  sans-serif;
+
+}
+
+.backgrounder {
+  background-image: url(https://mapnerds.zadzmo.org/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 5vh;
+  opacity: 0.6;
+}
+
+h1 {
+  font-family: serif;    
+}
+
+h3 {
+  font-family: serif;
+  border: 2px;
+  display: inline;
+}
+
+p {
+  margin-left: 2vw;
+}

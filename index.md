@@ -40,3 +40,7 @@ Seismic Activity:
   - [ISS](https://www.astroviewer.net/iss/en/)
   - [SOHO Sunspots](https://sohowww.nascom.nasa.gov/sunspots/)
   - [Live SKy View](https://heavens-above.com/skyview/?lat=38.2037&lng=-85.6714&cul=en#/livesky)
+
+
+##### Want to contribute?
+[Fork this on Github](https://github.com/JordanMatuschka/mapnerds)

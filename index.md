@@ -28,6 +28,7 @@ Weather Radar:
 Multidata Realtime Visualizations:
   - [VentuSky](https://www.ventusky.com/?p=36.9;-92.3;3&l=radar)
   - [Earth at nullschool.net](https://earth.nullschool.net/)
+  - [Zoom.Earth](https://zoom.earth/)
 
 Lightning: [OpenLighting Map](https://www.lightningmaps.org/)
 

@@ -35,6 +35,9 @@ Lightning: [OpenLighting Map](https://www.lightningmaps.org/)
 ### Infrastructure
 Power Outages: [PowerOutage.us](https://poweroutage.us)
 
+### Social/Political
+Indigenous Land: [Native-Land.ca](https://native-land.ca/)
+
 ### Geologic
 Topographic:
   - [USGS ProductFinder](https://store.usgs.gov/map-locator)

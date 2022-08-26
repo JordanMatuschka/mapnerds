@@ -54,6 +54,7 @@ Seismic Activity:
 
 ### Geographic
   - [Cartographic Maps of the Past](https://www.oldmapsonline.org/)
+  - [The Red Atlas (Soviet-era Maps)](https://redatlasbook.com/)
 
 ### Astronomical and Astrophysical
   - [ISS](https://www.astroviewer.net/iss/en/)

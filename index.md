@@ -14,7 +14,7 @@ Water: [National Water Dashboard](https://dashboard.waterdata.usgs.gov/app/nwd/?
 
 Air: [Airnow Fire and Smoke Map](https://fire.airnow.gov/)
 
-Satelite: 
+Satellite: 
   - [GOES, Himawari, Meteosat, JPSS](https://rammb-slider.cira.colostate.edu/)
   - [GOES-East Images](https://www.star.nesdis.noaa.gov/GOES/conus.php?sat=G16)
 

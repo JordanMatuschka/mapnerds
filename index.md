@@ -9,12 +9,16 @@ Marine: [AIS MarineTraffic](https://www.marinetraffic.com)
 
 Rail: [OpenRailway Map](https://www.openrailwaymap.org/)
 
+Roads: [Open Street Map](https://www.openstreetmap.org/)
+
 ### Meteorological and Hydrological
 Water: [National Water Dashboard](https://dashboard.waterdata.usgs.gov/app/nwd/?aoi=default)
 
-Air: [Airnow Fire and Smoke Map](https://fire.airnow.gov/)
+Air:
+  - [Airnow Fire and Smoke Map](https://fire.airnow.gov/)
+  -  [NASA FIRMS Fire information system](https://firms.modaps.eosdis.nasa.gov/map)
 
-Satelite: 
+Satellite: 
   - [GOES, Himawari, Meteosat, JPSS](https://rammb-slider.cira.colostate.edu/)
   - [GOES-East Images](https://www.star.nesdis.noaa.gov/GOES/conus.php?sat=G16)
 
@@ -52,6 +56,7 @@ Seismic Activity:
 
 ### Geographic
   - [Cartographic Maps of the Past](https://www.oldmapsonline.org/)
+  - [The Red Atlas (Soviet-era Maps)](https://redatlasbook.com/)
 
 ### Astronomical and Astrophysical
   - [ISS](https://www.astroviewer.net/iss/en/)

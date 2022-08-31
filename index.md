@@ -14,7 +14,9 @@ Roads: [Open Street Map](https://www.openstreetmap.org/)
 ### Meteorological and Hydrological
 Water: [National Water Dashboard](https://dashboard.waterdata.usgs.gov/app/nwd/?aoi=default)
 
-Air: [Airnow Fire and Smoke Map](https://fire.airnow.gov/)
+Air:
+  - [Airnow Fire and Smoke Map](https://fire.airnow.gov/)
+  -  [NASA FIRMS Fire information system](https://firms.modaps.eosdis.nasa.gov/map)
 
 Satellite: 
   - [GOES, Himawari, Meteosat, JPSS](https://rammb-slider.cira.colostate.edu/)

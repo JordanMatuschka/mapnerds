@@ -40,7 +40,9 @@ Multidata Realtime Visualizations:
 Lightning: [OpenLighting Map](https://www.lightningmaps.org/)
 
 ### Infrastructure
-Power Outages: [PowerOutage.us](https://poweroutage.us)
+  - Power Outages: [PowerOutage.us](https://poweroutage.us)
+  - Submarine Cable Map: [SubmarineCableMap.com](https://www.submarinecablemap.com/)
+
 
 ### Social/Political
 Indigenous Land: [Native-Land.ca](https://native-land.ca/)

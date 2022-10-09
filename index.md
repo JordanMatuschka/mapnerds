@@ -89,6 +89,7 @@ Paleoclimatology:
 ### Historical Geography
   - [Cartographic Maps of the Past](https://www.oldmapsonline.org/)
   - [The Red Atlas (Soviet-era Maps)](https://redatlasbook.com/)
+  - [Center of US Population](https://mtgis-portal.geo.census.gov/arcgis/apps/storymaps/collections/2046d0d4036144a28c7d7215545c0db7/)
 
 ### Astronomical and Astrophysical
   - [ISS](https://www.astroviewer.net/iss/en/)
@@ -120,6 +121,10 @@ Mars:
  - [N2YO AMSat Tracker](https://www.n2yo.com/satellites/?c=18)
  - [Libre Space SatNOGs Network](https://network.satnogs.org/)
  - [DXMaps](https://www.dxmaps.com)
+
+### War
+  - [Nukemap Nuclear Weapons Simulator](https://nuclearsecrecy.com/nukemap/)
+  - [Missilemap ICBM Simulator](https://nuclearsecrecy.com/missilemap/)
 
 ##### Want to contribute?
 [Fork this on Github](https://github.com/JordanMatuschka/mapnerds)

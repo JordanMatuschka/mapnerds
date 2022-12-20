@@ -5,7 +5,10 @@ Aircraft: [ADS-B](https://globe.adsbexchange.com/)
 
 GPS Interference: [GPSJAM](https://gpsjam.org/)
 
-Marine: [AIS MarineTraffic](https://www.marinetraffic.com) 
+Marine: 
+  - [AIS MarineTraffic](https://www.marinetraffic.com) 
+  - [European Inland Waterway](https://unece.org/fileadmin/DAM/trans/main/sc3/European_inland_waterways_-_2012.pdf)
+  - [UK Canal Map](https://waterways.org.uk/waterways/uk-canal-map)
 
 Rail: [OpenRailway Map](https://www.openrailwaymap.org/)
 
@@ -90,6 +93,7 @@ Paleoclimatology:
   - [Cartographic Maps of the Past](https://www.oldmapsonline.org/)
   - [The Red Atlas (Soviet-era Maps)](https://redatlasbook.com/)
   - [Center of US Population](https://mtgis-portal.geo.census.gov/arcgis/apps/storymaps/collections/2046d0d4036144a28c7d7215545c0db7/)
+  - [UK Canals Timeline](https://canalrivertrust.maps.arcgis.com/apps/MapSeries/index.html?appid=bc85e84c7069427ca87174490b03a08d)
 
 ### Astronomical and Astrophysical
   - [ISS](https://www.astroviewer.net/iss/en/)

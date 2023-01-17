@@ -127,6 +127,15 @@ Mars:
  - [N2YO AMSat Tracker](https://www.n2yo.com/satellites/?c=18)
  - [Libre Space SatNOGs Network](https://network.satnogs.org/)
  - [DXMaps](https://www.dxmaps.com)
+ - [DXStop BATC](https://dxspot.batc.org.uk/)
+ - [WebSDR Map](https://rx-tx.info/map-sdr-points)
+ - [KiwiSDR Map](http://rx.linkfanel.net/)
+ - [SatNOGS Network](https://satnogs.jwgtechs.com/)
+ - [WinLink Propagation Map](https://cms.winlink.org:444/maps/propagation.aspx)
+ - [PSK Reporter](https://pskreporter.info/pskmap.html)
+ - [QO-100 Dish Pointing Calculator](https://eshail.batc.org.uk/point/)
+ - [QRZ Locator](https://www.qrz.com/gridmapper)
+ - [QTH Grid Finder](https://k7fry.com/grid/)
 
 ### War
   - [Nukemap Nuclear Weapons Simulator](https://nuclearsecrecy.com/nukemap/)

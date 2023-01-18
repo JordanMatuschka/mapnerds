@@ -53,9 +53,23 @@ Hurricane:
 
 
 ### Infrastructure
-  - Power Outages: [PowerOutage.us](https://poweroutage.us)
-  - Submarine Cable Map: [SubmarineCableMap.com](https://www.submarinecablemap.com/)
-  - Satellite Constillations: [Satellite Map](https://satellitemap.space)
+Energy:
+  - [PowerOutage.us](https://poweroutage.us)
+  - [US Energy Sector Vulnerabilities](https://www.energy.gov/maps/climate-vulnerabilities)
+  - [National Coal Resources](https://eerscmap.usgs.gov/ncrds2/)
+  - [Kentucky Coal MMIS](https://eppcgis.ky.gov/minemapping/)
+  - [UK KGS Energy Infrastructure](https://kgs.uky.edu/kgsmap/kyenergy/viewer.asp)
+  - [Kentucky Class 1 and 2 Injection/Disposal Wells](https://kygs.maps.arcgis.com/home/webmap/viewer.html?webmap=9380ec4940cd46c9b2c65a1160753f6f)
+  - [TransAtlas](https://afdc.energy.gov/transatlas/)
+  - [NREL Marine Energy Atlas](https://maps.nrel.gov/marine-energy-atlas/)
+  - [NREL Solar Resource Maps](https://www.nrel.gov/gis/solar-resource-maps.html)
+  - [SEIA Solar by State](https://www.seia.org/states-map)
+  - [ANL Geospatial Energy Mapper](https://gem.anl.gov/tool)
+
+Communications:
+  - [SubmarineCableMap.com](https://www.submarinecablemap.com/)
+  - [Satellite Map](https://satellitemap.space)
+
 
 ### Social/Political:
 Indigenous Land: [Native-Land.ca](https://native-land.ca/)
@@ -69,6 +83,7 @@ Incidents/Events:
   - [GDELT](http://live.gdeltproject.org)
   - [Global Incident Map](http://www.globalincidentmap.com/)
   - [LiveUAMap](https://liveuamap.com/)
+  - [OnTheMap for Emergency Managment](https://onthemap.ces.census.gov/em/)
 
 ### Geologic
 Topographic:
@@ -83,6 +98,11 @@ Forestry:
 Watershed:
   - [USGS US Watersheds](https://water.usgs.gov/wsc/map_index.html)
   - [Westool](https://gis.winrock.org/westool/)
+  - [LOJIC IOCWP](https://www.lojic.org/ioap-projects)
+
+Minerals and Fuel:
+  - [Tight Oil and Shale Gas Plays](https://atlas.eia.gov/apps/tight-oil-and-shale-gas-plays-1/explore)
+  - [UK Geologic Map](https://kgs.uky.edu/kygeode/geomap/)
 
 Seismic Activity:
   - [IRIS Seismic Monitor](http://ds.iris.edu/seismon/index.phtml)

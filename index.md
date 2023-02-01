@@ -5,19 +5,24 @@ Aircraft:
   - [ADS-B](https://globe.adsbexchange.com/)
   - [VFRMap Aeronautical Charts](http://vfrmap.com/)
 
-GPS Interference: [GPSJAM](https://gpsjam.org/)
+GPS Interference: 
+  - [GPSJAM](https://gpsjam.org/)
 
 Marine: 
   - [AIS MarineTraffic](https://www.marinetraffic.com) 
   - [European Inland Waterway](https://unece.org/fileadmin/DAM/trans/main/sc3/European_inland_waterways_-_2012.pdf)
   - [UK Canal Map](https://waterways.org.uk/waterways/uk-canal-map)
 
-Rail: [OpenRailway Map](https://www.openrailwaymap.org/)
+Rail: 
+  - [OpenRailway Map](https://www.openrailwaymap.org/)
 
-Roads: [Open Street Map](https://www.openstreetmap.org/)
+Roads: 
+  - [Open Street Map](https://www.openstreetmap.org/)
 
 ### Meteorological and Hydrological
-Water: [National Water Dashboard](https://dashboard.waterdata.usgs.gov/app/nwd/?aoi=default)
+Water: 
+  - [National Water Dashboard](https://dashboard.waterdata.usgs.gov/app/nwd/?aoi=default)
+  - [River Runner](https://river-runner.samlearner.com/)
 
 Air:
   - [Airnow Fire and Smoke Map](https://fire.airnow.gov/)
@@ -72,7 +77,8 @@ Communications:
 
 
 ### Social/Political:
-Indigenous Land: [Native-Land.ca](https://native-land.ca/)
+Indigenous Land: 
+  - [Native-Land.ca](https://native-land.ca/)
 
 Food Systems:
   - [LOJIC Food Systems Crisis](https://www.lojic.org/food-system-crisis)
@@ -116,6 +122,7 @@ Paleoclimatology:
   - [The Red Atlas (Soviet-era Maps)](https://redatlasbook.com/)
   - [Center of US Population](https://mtgis-portal.geo.census.gov/arcgis/apps/storymaps/collections/2046d0d4036144a28c7d7215545c0db7/)
   - [UK Canals Timeline](https://canalrivertrust.maps.arcgis.com/apps/MapSeries/index.html?appid=bc85e84c7069427ca87174490b03a08d)
+  - [Many Roads](https://www.many-roads.com/library/maps/)
 
 ### Astronomical and Astrophysical
   - [ISS](https://www.astroviewer.net/iss/en/)

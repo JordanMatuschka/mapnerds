@@ -77,7 +77,8 @@ Communications:
 
 
 ### Social/Political:
-Indigenous Land: [Native-Land.ca](https://native-land.ca/)
+Indigenous Land: 
+  - [Native-Land.ca](https://native-land.ca/)
 
 Food Systems:
   - [LOJIC Food Systems Crisis](https://www.lojic.org/food-system-crisis)

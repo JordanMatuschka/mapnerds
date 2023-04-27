@@ -32,6 +32,7 @@ Weather Models:
   - [ECMWF](https://www.weathernerds.org/models/ecmwf.html)
   - [NWS Probabilistic Snowfall - Louisville](https://www.weather.gov/lmk/winter)
   - [Heat.gov National Integrated Heat Health Information System](https://www.heat.gov/)
+  - [WKU Mesonet](http://www.kymesonet.org/)
 
 Weather Radar: 
   - [DuPage SatRad - Chicago](https://weather.cod.edu/satrad/nexrad/)

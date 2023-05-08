@@ -37,6 +37,7 @@ Weather Models:
   - [ECMWF](https://www.weathernerds.org/models/ecmwf.html)
   - [NWS Probabilistic Snowfall - Louisville](https://www.weather.gov/lmk/winter)
   - [Heat.gov National Integrated Heat Health Information System](https://www.heat.gov/)
+  - [WKU Mesonet](http://www.kymesonet.org/)
 
 Weather Radar: 
   - [DuPage SatRad - Chicago](https://weather.cod.edu/satrad/nexrad/)
@@ -76,7 +77,7 @@ Communications:
   - [Satellite Map](https://satellitemap.space)
 
 
-### Social/Political:
+### Social/Political
 Indigenous Land: 
   - [Native-Land.ca](https://native-land.ca/)
 
@@ -91,7 +92,11 @@ Incidents/Events:
   - [LiveUAMap](https://liveuamap.com/)
   - [OnTheMap for Emergency Managment](https://onthemap.ces.census.gov/em/)
 
-### Geologic
+Chthulucene:
+  - [Power Plants and Neighboring Communities](https://experience.arcgis.com/experience/2e3610d731cb4cfcbcec9e2dcb83fc94)
+  - [Gun Violence Maps](https://www.gunviolencearchive.org/charts-and-maps)
+
+### Geological and Ecological
 Topographic:
   - [USGS ProductFinder](https://store.usgs.gov/map-locator)
   - [OpenTopo Map](https://opentopomap.org/)
@@ -100,6 +105,11 @@ Topographic:
 Forestry: 
   - [GFW](https://www.globalforestwatch.org/map/)
   - [USDA Forest Service Maps](https://www.fs.usda.gov/mapfinder/)
+  - [EPA Ecoregions](https://www.epa.gov/eco-research/ecoregions)
+  - [BONAP](http://www.bonap.org/)
+
+Wildlife:
+  - [Audubon Explorer](https://explorer.audubon.org/home)
 
 Watershed:
   - [USGS US Watersheds](https://water.usgs.gov/wsc/map_index.html)

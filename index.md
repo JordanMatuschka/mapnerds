@@ -80,6 +80,7 @@ Communications:
 ### Social/Political
 Indigenous Land: 
   - [Native-Land.ca](https://native-land.ca/)
+  - [MAPA Digital Atlas of Ukraine](https://gis.huri.harvard.edu/)
 
 Food Systems:
   - [LOJIC Food Systems Crisis](https://www.lojic.org/food-system-crisis)

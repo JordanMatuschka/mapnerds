@@ -181,8 +181,9 @@ Mars:
  - [QTH Grid Finder](https://k7fry.com/grid/)
 
 ### War
-  - [Nukemap Nuclear Weapons Simulator](https://nuclearsecrecy.com/nukemap/)
-  - [Missilemap ICBM Simulator](https://nuclearsecrecy.com/missilemap/)
+ - [Nukemap Nuclear Weapons Simulator](https://nuclearsecrecy.com/nukemap/)
+ - [Missilemap ICBM Simulator](https://nuclearsecrecy.com/missilemap/)
 
 ##### Want to contribute?
-[Fork this on Github](https://github.com/JordanMatuschka/mapnerds)
+ - [Fork this on Github](https://github.com/JordanMatuschka/mapnerds)
+ - [Lloyd-CI Deployments](https://lloyd.zadzmo.org/jobs/deploy-mapnerds)

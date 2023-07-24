@@ -139,6 +139,7 @@ Paleoclimatology:
   - [UK Canals Timeline](https://canalrivertrust.maps.arcgis.com/apps/MapSeries/index.html?appid=bc85e84c7069427ca87174490b03a08d)
   - [Many Roads](https://www.many-roads.com/library/maps/)
   - [Paleogeographic Map](https://dinosaurpictures.org/ancient-earth#240)
+  - [Scottish Castles](https://scottishcastles.xyz/)
 
 ### Astronomical and Astrophysical
   - [ISS](https://www.astroviewer.net/iss/en/)

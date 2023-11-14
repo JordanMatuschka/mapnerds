@@ -4,6 +4,7 @@
 Aircraft: 
   - [ADS-B](https://globe.adsbexchange.com/)
   - [VFRMap Aeronautical Charts](http://vfrmap.com/)
+  - [Flightaware Airtravel Misery](https://flightaware.com/miserymap/)
 
 GPS Interference: 
   - [GPSJAM](https://gpsjam.org/)
@@ -27,6 +28,9 @@ Water:
 Air:
   - [Airnow Fire and Smoke Map](https://fire.airnow.gov/)
   - [NASA FIRMS Fire information system](https://firms.modaps.eosdis.nasa.gov/map)
+
+Climate:
+  - [Climate Forcasting](https://climatereanalyzer.org/)
 
 Satellite: 
   - [GOES, Himawari, Meteosat, JPSS](https://rammb-slider.cira.colostate.edu/)
@@ -135,11 +139,13 @@ Paleoclimatology:
   - [UK Canals Timeline](https://canalrivertrust.maps.arcgis.com/apps/MapSeries/index.html?appid=bc85e84c7069427ca87174490b03a08d)
   - [Many Roads](https://www.many-roads.com/library/maps/)
   - [Paleogeographic Map](https://dinosaurpictures.org/ancient-earth#240)
+  - [Scottish Castles](https://scottishcastles.xyz/)
 
 ### Astronomical and Astrophysical
   - [ISS](https://www.astroviewer.net/iss/en/)
   - [Live SKy View](https://heavens-above.com/skyview/?lat=38.2037&lng=-85.6714&cul=en#/livesky)
   - [ESA Space Weather](https://swe.ssa.esa.int/current-space-weather)
+  - [Mars Surface](https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html)
 
 Solar:
   - [SOHO Sunspots](https://sohowww.nascom.nasa.gov/sunspots/)
@@ -177,8 +183,9 @@ Mars:
  - [QTH Grid Finder](https://k7fry.com/grid/)
 
 ### War
-  - [Nukemap Nuclear Weapons Simulator](https://nuclearsecrecy.com/nukemap/)
-  - [Missilemap ICBM Simulator](https://nuclearsecrecy.com/missilemap/)
+ - [Nukemap Nuclear Weapons Simulator](https://nuclearsecrecy.com/nukemap/)
+ - [Missilemap ICBM Simulator](https://nuclearsecrecy.com/missilemap/)
 
 ##### Want to contribute?
-[Fork this on Github](https://github.com/JordanMatuschka/mapnerds)
+ - [Fork this on Github](https://github.com/JordanMatuschka/mapnerds)
+ - [Lloyd-CI Deployments](https://lloyd.zadzmo.org/jobs/deploy-mapnerds)

@@ -130,6 +130,7 @@ Minerals and Fuel:
 Seismic Activity:
   - [IRIS Seismic Monitor](http://ds.iris.edu/seismon/index.phtml)
   - [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/)
+  - [Val Earthquake Map](https://www.val.town/v/fil/earthquakes)
 
 Paleoclimatology:
   - [NCEI Paleoclimatology Data Map](https://www.ncei.noaa.gov/maps/paleo/)

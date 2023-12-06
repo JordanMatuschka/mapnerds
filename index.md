@@ -100,6 +100,7 @@ Incidents/Events:
 Chthulucene:
   - [Power Plants and Neighboring Communities](https://experience.arcgis.com/experience/2e3610d731cb4cfcbcec9e2dcb83fc94)
   - [Gun Violence Maps](https://www.gunviolencearchive.org/charts-and-maps)
+  - [Light Pollution Map](https://www.lightpollutionmap.info/)
 
 ### Geological and Ecological
 Topographic:
@@ -124,7 +125,7 @@ Watershed:
 Minerals and Fuel:
   - [Tight Oil and Shale Gas Plays](https://atlas.eia.gov/apps/tight-oil-and-shale-gas-plays-1/explore)
   - [UK Geologic Map](https://kgs.uky.edu/kygeode/geomap/)
-  - [Pennsylvania Mine Maps](https://minemaps.psu.edu)
+  - [Pennsylvania Mine Maps](https://www.minemaps.psu.edu)
 
 Seismic Activity:
   - [IRIS Seismic Monitor](http://ds.iris.edu/seismon/index.phtml)
@@ -132,9 +133,6 @@ Seismic Activity:
 
 Paleoclimatology:
   - [NCEI Paleoclimatology Data Map](https://www.ncei.noaa.gov/maps/paleo/)
-
-Pollution:
-  - [Light Pollution Map](https://www.lightpollutionmap.info/)
 
 ### Historical Geography
   - [Cartographic Maps of the Past](https://www.oldmapsonline.org/)

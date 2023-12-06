@@ -132,6 +132,9 @@ Seismic Activity:
 Paleoclimatology:
   - [NCEI Paleoclimatology Data Map](https://www.ncei.noaa.gov/maps/paleo/)
 
+Pollution:
+  - [Light Pollution Map](https://www.lightpollutionmap.info/)
+
 ### Historical Geography
   - [Cartographic Maps of the Past](https://www.oldmapsonline.org/)
   - [The Red Atlas (Soviet-era Maps)](https://redatlasbook.com/)

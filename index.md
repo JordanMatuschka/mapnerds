@@ -124,6 +124,7 @@ Watershed:
 Minerals and Fuel:
   - [Tight Oil and Shale Gas Plays](https://atlas.eia.gov/apps/tight-oil-and-shale-gas-plays-1/explore)
   - [UK Geologic Map](https://kgs.uky.edu/kygeode/geomap/)
+  - [Pennsylvania Mine Maps](https://minemaps.psu.edu)
 
 Seismic Activity:
   - [IRIS Seismic Monitor](http://ds.iris.edu/seismon/index.phtml)

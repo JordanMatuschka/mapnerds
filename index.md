@@ -111,6 +111,7 @@ Topographic:
 Forestry: 
   - [GFW](https://www.globalforestwatch.org/map/)
   - [USDA Forest Service Maps](https://www.fs.usda.gov/mapfinder/)
+  - [US Forest Service Geodata Clearing House](https://data.fs.usda.gov/geodata/maps/index.php)
   - [EPA Ecoregions](https://www.epa.gov/eco-research/ecoregions)
   - [BONAP](http://www.bonap.org/)
 

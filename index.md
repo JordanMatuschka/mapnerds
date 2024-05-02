@@ -5,6 +5,7 @@ Aircraft:
   - [ADS-B](https://globe.adsbexchange.com/)
   - [VFRMap Aeronautical Charts](http://vfrmap.com/)
   - [Flightaware Airtravel Misery](https://flightaware.com/miserymap/)
+  - [Turbulance Forecast](https://www.turbulenceforecast.com/worldmap)
 
 GPS Interference: 
   - [GPSJAM](https://gpsjam.org/)
@@ -23,6 +24,7 @@ Roads:
 ### Meteorological and Hydrological
 Water: 
   - [National Water Dashboard](https://dashboard.waterdata.usgs.gov/app/nwd/?aoi=default)
+  - [Open WaterwayMap](https://waterwaymap.org/)
   - [River Runner](https://river-runner.samlearner.com/)
 
 Air:
@@ -102,6 +104,9 @@ Chthulucene:
   - [Gun Violence Maps](https://www.gunviolencearchive.org/charts-and-maps)
   - [Light Pollution Map](https://www.lightpollutionmap.info/)
 
+National Archives:
+  - [National Library of Scotland Map Database](https://maps.nls.uk/)
+
 ### Geological and Ecological
 Topographic:
   - [USGS ProductFinder](https://store.usgs.gov/map-locator)
@@ -111,6 +116,7 @@ Topographic:
 Forestry: 
   - [GFW](https://www.globalforestwatch.org/map/)
   - [USDA Forest Service Maps](https://www.fs.usda.gov/mapfinder/)
+  - [US Forest Service Geodata Clearing House](https://data.fs.usda.gov/geodata/maps/index.php)
   - [EPA Ecoregions](https://www.epa.gov/eco-research/ecoregions)
   - [BONAP](http://www.bonap.org/)
 

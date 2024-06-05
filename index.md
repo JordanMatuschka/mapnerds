@@ -26,6 +26,7 @@ Water:
   - [National Water Dashboard](https://dashboard.waterdata.usgs.gov/app/nwd/?aoi=default)
   - [Open WaterwayMap](https://waterwaymap.org/)
   - [River Runner](https://river-runner.samlearner.com/)
+  - [Kentucky Waterfalls Map](https://kywaterfalls.com/dir/index.php/waterfalls-map)
 
 Air:
   - [Airnow Fire and Smoke Map](https://fire.airnow.gov/)

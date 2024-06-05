@@ -152,10 +152,13 @@ Paleoclimatology:
   - [Scottish Castles](https://scottishcastles.xyz/)
 
 ### Astronomical and Astrophysical
+Satellite Viewers:
   - [ISS](https://www.astroviewer.net/iss/en/)
-  - [Live SKy View](https://heavens-above.com/skyview/?lat=38.2037&lng=-85.6714&cul=en#/livesky)
+  - [Live Sky View](https://heavens-above.com/skyview/?lat=38.2037&lng=-85.6714&cul=en#/livesky)
+
+Space Weather:
+  - [NOAA Aurora Forecast](https://www.swpc.noaa.gov/products/aurora-30-minute-forecast)
   - [ESA Space Weather](https://swe.ssa.esa.int/current-space-weather)
-  - [Mars Surface](https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html)
 
 Solar:
   - [SOHO Sunspots](https://sohowww.nascom.nasa.gov/sunspots/)
@@ -167,6 +170,7 @@ Mars:
   - [CRISM](http://crism-map.jhuapl.edu/)
   - [Google Mars](https://www.google.com/mars/)
   - [NASA Mars Trek](https://trek.nasa.gov/mars/)
+  - [Mars Surface](https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html)
 
 ### Covid-19 Pandemic
   - [CovidActNow](https://www.covidactnow.org)

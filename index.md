@@ -5,6 +5,7 @@ Aircraft:
   - [ADS-B](https://globe.adsbexchange.com/)
   - [VFRMap Aeronautical Charts](http://vfrmap.com/)
   - [Flightaware Airtravel Misery](https://flightaware.com/miserymap/)
+  - [Turbulance Forecast](https://www.turbulenceforecast.com/worldmap)
 
 GPS Interference: 
   - [GPSJAM](https://gpsjam.org/)
@@ -23,7 +24,9 @@ Roads:
 ### Meteorological and Hydrological
 Water: 
   - [National Water Dashboard](https://dashboard.waterdata.usgs.gov/app/nwd/?aoi=default)
+  - [Open WaterwayMap](https://waterwaymap.org/)
   - [River Runner](https://river-runner.samlearner.com/)
+  - [Kentucky Waterfalls Map](https://kywaterfalls.com/dir/index.php/waterfalls-map)
 
 Air:
   - [Airnow Fire and Smoke Map](https://fire.airnow.gov/)
@@ -100,6 +103,10 @@ Incidents/Events:
 Chthulucene:
   - [Power Plants and Neighboring Communities](https://experience.arcgis.com/experience/2e3610d731cb4cfcbcec9e2dcb83fc94)
   - [Gun Violence Maps](https://www.gunviolencearchive.org/charts-and-maps)
+  - [Light Pollution Map](https://www.lightpollutionmap.info/)
+
+National Archives:
+  - [National Library of Scotland Map Database](https://maps.nls.uk/)
 
 ### Geological and Ecological
 Topographic:
@@ -110,6 +117,7 @@ Topographic:
 Forestry: 
   - [GFW](https://www.globalforestwatch.org/map/)
   - [USDA Forest Service Maps](https://www.fs.usda.gov/mapfinder/)
+  - [US Forest Service Geodata Clearing House](https://data.fs.usda.gov/geodata/maps/index.php)
   - [EPA Ecoregions](https://www.epa.gov/eco-research/ecoregions)
   - [BONAP](http://www.bonap.org/)
 
@@ -124,12 +132,15 @@ Watershed:
 Minerals and Fuel:
   - [Tight Oil and Shale Gas Plays](https://atlas.eia.gov/apps/tight-oil-and-shale-gas-plays-1/explore)
   - [UK Geologic Map](https://kgs.uky.edu/kygeode/geomap/)
+  - [Pennsylvania Mine Maps](https://www.minemaps.psu.edu)
 
 Seismic Activity:
   - [IRIS Seismic Monitor](http://ds.iris.edu/seismon/index.phtml)
   - [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/)
   - [Ísland Jarðskjálftar 3D Map](https://skjalftar.is/3d)
   - [Vafri](https://vafri.is/quake/)
+  - [Val Earthquake Map](https://www.val.town/v/fil/earthquakes)
+
 
 Paleoclimatology:
   - [NCEI Paleoclimatology Data Map](https://www.ncei.noaa.gov/maps/paleo/)
@@ -144,10 +155,13 @@ Paleoclimatology:
   - [Scottish Castles](https://scottishcastles.xyz/)
 
 ### Astronomical and Astrophysical
+Satellite Viewers:
   - [ISS](https://www.astroviewer.net/iss/en/)
-  - [Live SKy View](https://heavens-above.com/skyview/?lat=38.2037&lng=-85.6714&cul=en#/livesky)
+  - [Live Sky View](https://heavens-above.com/skyview/?lat=38.2037&lng=-85.6714&cul=en#/livesky)
+
+Space Weather:
+  - [NOAA Aurora Forecast](https://www.swpc.noaa.gov/products/aurora-30-minute-forecast)
   - [ESA Space Weather](https://swe.ssa.esa.int/current-space-weather)
-  - [Mars Surface](https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html)
 
 Solar:
   - [SOHO Sunspots](https://sohowww.nascom.nasa.gov/sunspots/)
@@ -159,6 +173,7 @@ Mars:
   - [CRISM](http://crism-map.jhuapl.edu/)
   - [Google Mars](https://www.google.com/mars/)
   - [NASA Mars Trek](https://trek.nasa.gov/mars/)
+  - [Mars Surface](https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html)
 
 ### Covid-19 Pandemic
   - [CovidActNow](https://www.covidactnow.org)

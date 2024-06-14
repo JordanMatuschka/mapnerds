@@ -34,6 +34,7 @@ Air:
 
 Climate:
   - [Climate Forcasting](https://climatereanalyzer.org/)
+  - [HPRCC Climate Summary Maps](https://hprcc.unl.edu/maps.php?maps=ACISClimateMaps)
 
 Satellite: 
   - [GOES, Himawari, Meteosat, JPSS](https://rammb-slider.cira.colostate.edu/)

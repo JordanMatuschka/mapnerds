@@ -29,6 +29,11 @@ Water:
   - [River Runner](https://river-runner.samlearner.com/)
   - [Kentucky Waterfalls Map](https://kywaterfalls.com/dir/index.php/waterfalls-map)
 
+Precipitation:
+  - [Raindrop Rainfall Totals](https://app.raindrop.farm/)
+  - [Raindrop Snowfall Map](https://app.raindrop.farm/snowfall/map)
+  - [NOAA Precipitation Analysis](https://water.weather.gov/precip/about.php)
+
 Air:
   - [Airnow Fire and Smoke Map](https://fire.airnow.gov/)
   - [NASA FIRMS Fire information system](https://firms.modaps.eosdis.nasa.gov/map)

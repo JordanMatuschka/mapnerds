@@ -89,6 +89,7 @@ Energy:
 Communications:
   - [SubmarineCableMap.com](https://www.submarinecablemap.com/)
   - [Satellite Map](https://satellitemap.space)
+  - [AT&T Long Lines System](https://long-lines.com/map)
 
 
 ### Social/Political

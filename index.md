@@ -33,6 +33,7 @@ Precipitation:
   - [Raindrop Rainfall Totals](https://app.raindrop.farm/)
   - [Raindrop Snowfall Map](https://app.raindrop.farm/snowfall/map)
   - [NOAA Precipitation Analysis](https://water.weather.gov/precip/about.php)
+  - [North American Drought Monitor](https://droughtmonitor.unl.edu/NADM/Home.aspx)
 
 Air:
   - [Airnow Fire and Smoke Map](https://fire.airnow.gov/)

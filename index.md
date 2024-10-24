@@ -135,6 +135,7 @@ Forestry:
   - [US Forest Service Geodata Clearing House](https://data.fs.usda.gov/geodata/maps/index.php)
   - [EPA Ecoregions](https://www.epa.gov/eco-research/ecoregions)
   - [BONAP](http://www.bonap.org/)
+  - [Fall Color Forecast](https://www.explorefall.com/fall-foliage-map)
 
 Wildlife:
   - [Audubon Explorer](https://explorer.audubon.org/home)

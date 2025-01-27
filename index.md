@@ -48,6 +48,9 @@ Satellite:
   - [GOES, Himawari, Meteosat, JPSS](https://rammb-slider.cira.colostate.edu/)
   - [GOES-East Images](https://www.star.nesdis.noaa.gov/GOES/conus.php?sat=G16)
 
+Sun:
+  - [Shademap.app](https://shademap.app)
+
 Weather Models: 
   - [GFS](https://www.pivotalweather.com/model.php)
   - [ECMWF](https://www.weathernerds.org/models/ecmwf.html)

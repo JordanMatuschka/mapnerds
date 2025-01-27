@@ -20,6 +20,7 @@ Rail:
 
 Roads: 
   - [Open Street Map](https://www.openstreetmap.org/)
+  - [Louisville Metro Transportation Projects](https://lojic.maps.arcgis.com/apps/dashboards/8bf6be298ac34418b6bfc5dc56d296ff) 
 
 ### Meteorological and Hydrological
 Water: 
@@ -28,12 +29,19 @@ Water:
   - [River Runner](https://river-runner.samlearner.com/)
   - [Kentucky Waterfalls Map](https://kywaterfalls.com/dir/index.php/waterfalls-map)
 
+Precipitation:
+  - [Raindrop Rainfall Totals](https://app.raindrop.farm/)
+  - [Raindrop Snowfall Map](https://app.raindrop.farm/snowfall/map)
+  - [NOAA Precipitation Analysis](https://water.weather.gov/precip/about.php)
+  - [North American Drought Monitor](https://droughtmonitor.unl.edu/NADM/Home.aspx)
+
 Air:
   - [Airnow Fire and Smoke Map](https://fire.airnow.gov/)
   - [NASA FIRMS Fire information system](https://firms.modaps.eosdis.nasa.gov/map)
 
 Climate:
   - [Climate Forcasting](https://climatereanalyzer.org/)
+  - [HPRCC Climate Summary Maps](https://hprcc.unl.edu/maps.php?maps=ACISClimateMaps)
 
 Satellite: 
   - [GOES, Himawari, Meteosat, JPSS](https://rammb-slider.cira.colostate.edu/)
@@ -78,16 +86,21 @@ Energy:
   - [NREL Solar Resource Maps](https://www.nrel.gov/gis/solar-resource-maps.html)
   - [SEIA Solar by State](https://www.seia.org/states-map)
   - [ANL Geospatial Energy Mapper](https://gem.anl.gov/tool)
+  - [Global Energy Monitor](https://globalenergymonitor.org/)
 
 Communications:
   - [SubmarineCableMap.com](https://www.submarinecablemap.com/)
   - [Satellite Map](https://satellitemap.space)
+  - [AT&T Long Lines System](https://long-lines.com/map)
 
 
 ### Social/Political
 Indigenous Land: 
   - [Native-Land.ca](https://native-land.ca/)
   - [MAPA Digital Atlas of Ukraine](https://gis.huri.harvard.edu/)
+
+Race in America:
+  - [Historical Sundown Towns](https://justice.tougaloo.edu/sundown-towns/using-the-sundown-towns-database/)
 
 Food Systems:
   - [LOJIC Food Systems Crisis](https://www.lojic.org/food-system-crisis)
@@ -109,6 +122,9 @@ National Archives:
   - [National Library of Scotland Map Database](https://maps.nls.uk/)
 
 ### Geological and Ecological
+Agriculture:
+  - [Top 20 US Crops](https://felt.com/map/Top-20-Crops-in-the-Continental-US-ykuPQVKgQRyG09CO9CoNbgCC)
+
 Topographic:
   - [USGS ProductFinder](https://store.usgs.gov/map-locator)
   - [OpenTopo Map](https://opentopomap.org/)
@@ -120,6 +136,7 @@ Forestry:
   - [US Forest Service Geodata Clearing House](https://data.fs.usda.gov/geodata/maps/index.php)
   - [EPA Ecoregions](https://www.epa.gov/eco-research/ecoregions)
   - [BONAP](http://www.bonap.org/)
+  - [Fall Color Forecast](https://www.explorefall.com/fall-foliage-map)
 
 Wildlife:
   - [Audubon Explorer](https://explorer.audubon.org/home)

@@ -17,6 +17,7 @@ Marine:
 
 Rail: 
   - [OpenRailway Map](https://www.openrailwaymap.org/)
+  - [Trains.FYI](https://trains.fyi/)
 
 Roads: 
   - [Open Street Map](https://www.openstreetmap.org/)
@@ -46,6 +47,9 @@ Climate:
 Satellite: 
   - [GOES, Himawari, Meteosat, JPSS](https://rammb-slider.cira.colostate.edu/)
   - [GOES-East Images](https://www.star.nesdis.noaa.gov/GOES/conus.php?sat=G16)
+
+Sun:
+  - [Shademap.app](https://shademap.app)
 
 Weather Models: 
   - [GFS](https://www.pivotalweather.com/model.php)

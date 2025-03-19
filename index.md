@@ -220,6 +220,7 @@ Mars:
  - [QO-100 Dish Pointing Calculator](https://eshail.batc.org.uk/point/)
  - [QRZ Locator](https://www.qrz.com/gridmapper)
  - [QTH Grid Finder](https://k7fry.com/grid/)
+ - [3D F2 Map](https://copaseticflow.blogspot.com/p/project-toucans-current-f2-map.html)
 
 ### War
  - [Nukemap Nuclear Weapons Simulator](https://nuclearsecrecy.com/nukemap/)

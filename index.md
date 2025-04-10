@@ -91,6 +91,7 @@ Energy:
   - [SEIA Solar by State](https://www.seia.org/states-map)
   - [ANL Geospatial Energy Mapper](https://gem.anl.gov/tool)
   - [Global Energy Monitor](https://globalenergymonitor.org/)
+  - [Open Infrastructure Map](https://openinframap.org/)
 
 Communications:
   - [SubmarineCableMap.com](https://www.submarinecablemap.com/)

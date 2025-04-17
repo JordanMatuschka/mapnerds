@@ -222,6 +222,8 @@ Mars:
  - [QRZ Locator](https://www.qrz.com/gridmapper)
  - [QTH Grid Finder](https://k7fry.com/grid/)
  - [3D F2 Map](https://copaseticflow.blogspot.com/p/project-toucans-current-f2-map.html)
+ - [Magnetic Declination](https://www.magnetic-declination.com/)
+ - [Hammap.io](https://www.hammap.io/)
 
 ### War
  - [Nukemap Nuclear Weapons Simulator](https://nuclearsecrecy.com/nukemap/)

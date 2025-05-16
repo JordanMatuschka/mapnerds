@@ -1,30 +1,30 @@
 # Map Nerds Unite!
 
 ### Transit and Transport:
-Aircraft: 
+Aircraft:
   - [ADS-B](https://globe.adsbexchange.com/)
   - [VFRMap Aeronautical Charts](http://vfrmap.com/)
   - [Flightaware Airtravel Misery](https://flightaware.com/miserymap/)
   - [Turbulance Forecast](https://www.turbulenceforecast.com/worldmap)
 
-GPS Interference: 
+GPS Interference:
   - [GPSJAM](https://gpsjam.org/)
 
-Marine: 
-  - [AIS MarineTraffic](https://www.marinetraffic.com) 
+Marine:
+  - [AIS MarineTraffic](https://www.marinetraffic.com)
   - [European Inland Waterway](https://unece.org/fileadmin/DAM/trans/main/sc3/European_inland_waterways_-_2012.pdf)
   - [UK Canal Map](https://waterways.org.uk/waterways/uk-canal-map)
 
-Rail: 
+Rail:
   - [OpenRailway Map](https://www.openrailwaymap.org/)
   - [Trains.FYI](https://trains.fyi/)
 
-Roads: 
+Roads:
   - [Open Street Map](https://www.openstreetmap.org/)
-  - [Louisville Metro Transportation Projects](https://lojic.maps.arcgis.com/apps/dashboards/8bf6be298ac34418b6bfc5dc56d296ff) 
+  - [Louisville Metro Transportation Projects](https://lojic.maps.arcgis.com/apps/dashboards/8bf6be298ac34418b6bfc5dc56d296ff)
 
 ### Meteorological and Hydrological
-Water: 
+Water:
   - [National Water Dashboard](https://dashboard.waterdata.usgs.gov/app/nwd/?aoi=default)
   - [Open WaterwayMap](https://waterwaymap.org/)
   - [River Runner](https://river-runner.samlearner.com/)
@@ -35,6 +35,7 @@ Precipitation:
   - [Raindrop Snowfall Map](https://app.raindrop.farm/snowfall/map)
   - [NOAA Precipitation Analysis](https://water.weather.gov/precip/about.php)
   - [North American Drought Monitor](https://droughtmonitor.unl.edu/NADM/Home.aspx)
+  - [NOAA NEXRAD II & III Radars](https://www.ncei.noaa.gov/maps/radar/)
 
 Air:
   - [Airnow Fire and Smoke Map](https://fire.airnow.gov/)
@@ -44,21 +45,21 @@ Climate:
   - [Climate Forcasting](https://climatereanalyzer.org/)
   - [HPRCC Climate Summary Maps](https://hprcc.unl.edu/maps.php?maps=ACISClimateMaps)
 
-Satellite: 
+Satellite:
   - [GOES, Himawari, Meteosat, JPSS](https://rammb-slider.cira.colostate.edu/)
   - [GOES-East Images](https://www.star.nesdis.noaa.gov/GOES/conus.php?sat=G16)
 
 Sun:
   - [Shademap.app](https://shademap.app)
 
-Weather Models: 
+Weather Models:
   - [GFS](https://www.pivotalweather.com/model.php)
   - [ECMWF](https://www.weathernerds.org/models/ecmwf.html)
   - [NWS Probabilistic Snowfall - Louisville](https://www.weather.gov/lmk/winter)
   - [Heat.gov National Integrated Heat Health Information System](https://www.heat.gov/)
   - [WKU Mesonet](http://www.kymesonet.org/)
 
-Weather Radar: 
+Weather Radar:
   - [DuPage SatRad - Chicago](https://weather.cod.edu/satrad/nexrad/)
   - [DuPage SatRad - Louisville](https://weather.cod.edu/satrad/nexrad/index.php?parms=LVX-N0Q-0-24-100-usa-rad)
 
@@ -67,7 +68,7 @@ Multidata Realtime Visualizations:
   - [Earth at nullschool.net](https://earth.nullschool.net/)
   - [Zoom.Earth](https://zoom.earth/)
 
-Lightning: 
+Lightning:
   - [OpenLighting Map](https://www.lightningmaps.org/)
   - [Blitzorung](https://map.blitzortung.org)
 
@@ -100,7 +101,7 @@ Communications:
 
 
 ### Social/Political
-Indigenous Land: 
+Indigenous Land:
   - [Native-Land.ca](https://native-land.ca/)
   - [MAPA Digital Atlas of Ukraine](https://gis.huri.harvard.edu/)
 
@@ -135,7 +136,7 @@ Topographic:
   - [OpenTopo Map](https://opentopomap.org/)
   - [ArcGIS World Topographic Map](https://www.arcgis.com/home/webmap/viewer.html)
 
-Forestry: 
+Forestry:
   - [GFW](https://www.globalforestwatch.org/map/)
   - [USDA Forest Service Maps](https://www.fs.usda.gov/mapfinder/)
   - [US Forest Service Geodata Clearing House](https://data.fs.usda.gov/geodata/maps/index.php)
@@ -228,6 +229,8 @@ Mars:
 ### War
  - [Nukemap Nuclear Weapons Simulator](https://nuclearsecrecy.com/nukemap/)
  - [Missilemap ICBM Simulator](https://nuclearsecrecy.com/missilemap/)
+ - [Ukraine Front Map](https://liveuamap.com)
+ - [Syrian Front Map](https://syria.liveuamap.com)
 
 ##### Want to contribute?
  - [Fork this on Github](https://github.com/JordanMatuschka/mapnerds)

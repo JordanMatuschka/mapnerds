@@ -118,6 +118,7 @@ Incidents/Events:
   - [Global Incident Map](http://www.globalincidentmap.com/)
   - [LiveUAMap](https://liveuamap.com/)
   - [OnTheMap for Emergency Managment](https://onthemap.ces.census.gov/em/)
+  - [DOGE Impacts](https://theimpactproject.org/the-impact-map/)
 
 Chthulucene:
   - [Power Plants and Neighboring Communities](https://experience.arcgis.com/experience/2e3610d731cb4cfcbcec9e2dcb83fc94)

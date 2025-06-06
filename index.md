@@ -186,6 +186,7 @@ Satellite Viewers:
 Space Weather:
   - [NOAA Aurora Forecast](https://www.swpc.noaa.gov/products/aurora-30-minute-forecast)
   - [ESA Space Weather](https://swe.ssa.esa.int/current-space-weather)
+  - [AuroraSaurus](https://aurorasaurus.org/)
 
 Solar:
   - [SOHO Sunspots](https://sohowww.nascom.nasa.gov/sunspots/)

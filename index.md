@@ -158,14 +158,16 @@ Minerals and Fuel:
   - [UK Geologic Map](https://kgs.uky.edu/kygeode/geomap/)
   - [Pennsylvania Mine Maps](https://www.minemaps.psu.edu)
 
+Natural Areas:
+  - [Indiana State Nature Preserves](https://indnr.maps.arcgis.com/apps/webappviewer/index.html?id=5c86563e94214a7e97fafb274d13490f)
+
 Seismic Activity:
   - [IRIS Seismic Monitor](http://ds.iris.edu/seismon/index.phtml)
   - [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/)
   - [Ísland Jarðskjálftar 3D Map](https://skjalftar.is/3d)
   - [Vafri](https://vafri.is/quake/)
   - [Val Earthquake Map](https://www.val.town/v/fil/earthquakes)
-
-
+    
 Paleoclimatology:
   - [NCEI Paleoclimatology Data Map](https://www.ncei.noaa.gov/maps/paleo/)
 

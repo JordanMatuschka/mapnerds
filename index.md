@@ -124,6 +124,7 @@ Chthulucene:
   - [Power Plants and Neighboring Communities](https://experience.arcgis.com/experience/2e3610d731cb4cfcbcec9e2dcb83fc94)
   - [Gun Violence Maps](https://www.gunviolencearchive.org/charts-and-maps)
   - [Light Pollution Map](https://www.lightpollutionmap.info/)
+  - [Flock Survellience Camera Locations](https://deflock.me)
 
 National Archives:
   - [National Library of Scotland Map Database](https://maps.nls.uk/)

@@ -181,6 +181,7 @@ Paleoclimatology:
   - [Paleogeographic Map](https://dinosaurpictures.org/ancient-earth#240)
   - [Scottish Castles](https://scottishcastles.xyz/)
   - [Itiner-E Roman Road Database](https://itiner-e.org/)
+  - [The Ferraris Map](https://www.kbr.be/en/the-ferraris-map/)
 
 ### Astronomical and Astrophysical
 Satellite Viewers:
